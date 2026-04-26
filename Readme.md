@@ -33,7 +33,7 @@
 
 <!-- Title -->
 <p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=120&section=header&text=SYSTEM%20ACCESS&fontColor=3ddcff&fontSize=40&animation=twinkling" width="100%" alt="System Access Title" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
   <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=Rajarshi%20System&desc=Projects%20|%20Designs%20|%20Security%20|%20Info&fontColor=3ddcff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
 <a href="#">
-  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=CYBER%20LAB&desc=Security%20%26%20Development%20Environment&fontColor=b794ff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=CYBER%20LAB&desc=Security%20and%20Development%20Environment&fontColor=b794ff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
 
 </p>
@@ -51,7 +51,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](#)
 
 <p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=200&section=header&text=SYSTEM%20CORE%20PANEL&fontColor=b794ff&fontSize=50&animation=twinkling" width="100%" alt="System core panel" />
 </p>
 
 
@@ -110,9 +110,17 @@
 
 <div style="width:220px;">
   <a href="#">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects Panel">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=120&section=header&text=Projects%20Panel&fontColor=3ddcff&fontSize=25&animation=twinkling" width="220" alt="Projects Panel">
   </a>
 </div>
+<br>
+<a href="https://github.com/meisken/your-project-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meisken&repo=your-project-repo&theme=radical" width="220" alt="Repository Card" />
+</a>
+<br>
+<a href="https://github.com/meisken/your-frontend-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meisken&repo=your-frontend-repo&theme=radical" width="220" alt="Repository Card" />
+</a>
 
 </td>
 
@@ -124,9 +132,17 @@
 
 <div style="width:220px;">
     <a href="#">
-        <img src="docs/img/ai_domains.svg" width="220" alt="Domains Panel">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=120&section=header&text=Domains%20Panel&fontColor=b794ff&fontSize=25&animation=twinkling" width="220" alt="Domains Panel">
     </a>
 </div>
+<br>
+<a href="https://github.com/meisken/your-security-script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meisken&repo=your-security-script&theme=radical" width="220" alt="Repository Card" />
+</a>
+<br>
+<a href="https://github.com/meisken/your-ctf-writeups">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meisken&repo=your-ctf-writeups&theme=radical" width="220" alt="Repository Card" />
+</a>
 
 </td>
 
@@ -139,15 +155,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meisken&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meisken&theme=radical" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=meisken&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
@@ -174,7 +190,7 @@ I’m open to collaborating on:
 <!-- MIDDLE: PANEL -->
 <td width="34%" align="center" valign="middle">
     <a href="#">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration Panel" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=120&section=header&text=Collaboration&fontColor=3ddcff&fontSize=25&animation=twinkling" width="200px" alt="Collaboration Panel" />
     </a>
 </td>
 
